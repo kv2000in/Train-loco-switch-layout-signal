@@ -6,10 +6,17 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		2A512589248D641F00C71486 /* esp8266-train-websocket.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "esp8266-train-websocket.html"; sourceTree = "<group>"; };
+		2A51258A248D642000C71486 /* ESP8266-Train-Websocket-GPIOSwitch-Server-SanatanDharma */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "ESP8266-Train-Websocket-GPIOSwitch-Server-SanatanDharma"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		2A512582248D63DD00C71486 = {
 			isa = PBXGroup;
 			children = (
+				2A51258A248D642000C71486 /* ESP8266-Train-Websocket-GPIOSwitch-Server-SanatanDharma */,
+				2A512589248D641F00C71486 /* esp8266-train-websocket.html */,
 			);
 			sourceTree = "<group>";
 		};
