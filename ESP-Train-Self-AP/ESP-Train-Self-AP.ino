@@ -1,3 +1,15 @@
+/*
+best to run checkflashconfig before uploading to a new board.
+today 10/30/2021
+06:46:22.306 -> Flash ide  size: 1048576 bytes
+06:46:22.308 -> Flash ide speed: 40000000 Hz
+06:46:22.311 -> Flash ide mode:  DOUT
+06:46:22.313 -> Flash Chip configuration ok.
+06:46:22.338 -> 
+
+Upload config
+
+*/
 #include <ESP8266WiFi.h>
 #include <WebSocketsServer.h>
 #include <ESP8266WebServer.h>
@@ -5,7 +17,7 @@
 #include <ArduinoOTA.h>
 
 #ifndef APSSID
-#define APSSID "myRover1"
+#define APSSID "Train-Master"
 #define APPSK  "revoRym123"
 #endif
 
