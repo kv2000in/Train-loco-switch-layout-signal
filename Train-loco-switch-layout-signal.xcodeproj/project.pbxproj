@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		2A0E96CC2959353600A76809 /* ESP32-Websocket */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "ESP32-Websocket"; sourceTree = "<group>"; };
 		2A1F1E10260FE596009BA217 /* ESP-Train-Self-AP */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "ESP-Train-Self-AP"; sourceTree = "<group>"; };
 		2A1F1E12260FEF08009BA217 /* Atmega328p-for-train */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Atmega328p-for-train"; sourceTree = "<group>"; };
 		2A1F1E13260FF017009BA217 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
@@ -18,6 +19,7 @@
 		2A512582248D63DD00C71486 = {
 			isa = PBXGroup;
 			children = (
+				2A0E96CC2959353600A76809 /* ESP32-Websocket */,
 				2A1F1E13260FF017009BA217 /* index.html */,
 				2A1F1E12260FEF08009BA217 /* Atmega328p-for-train */,
 				2A1F1E10260FE596009BA217 /* ESP-Train-Self-AP */,
