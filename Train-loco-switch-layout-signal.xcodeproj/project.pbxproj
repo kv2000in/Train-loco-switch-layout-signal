@@ -13,12 +13,14 @@
 		2A1F1E13260FF017009BA217 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		2A512589248D641F00C71486 /* esp8266-train-websocket.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "esp8266-train-websocket.html"; sourceTree = "<group>"; };
 		2A51258A248D642000C71486 /* ESP8266-Train-Websocket-GPIOSwitch-Server-SanatanDharma */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "ESP8266-Train-Websocket-GPIOSwitch-Server-SanatanDharma"; sourceTree = "<group>"; };
+		2AA8B16C2A2569DB00506380 /* ESP32-Servo-Test */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "ESP32-Servo-Test"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		2A512582248D63DD00C71486 = {
 			isa = PBXGroup;
 			children = (
+				2AA8B16C2A2569DB00506380 /* ESP32-Servo-Test */,
 				2A0E96CC2959353600A76809 /* ESP32-Websocket */,
 				2A1F1E13260FF017009BA217 /* index.html */,
 				2A1F1E12260FEF08009BA217 /* Atmega328p-for-train */,
